@@ -1,7 +1,7 @@
 Builds
 ======
 
-Builds for the Survival Games
+Builds for the Survival Games, fully automated builder included.
 
 DO NOT EDIT, TEAM MEMBERS!
 
