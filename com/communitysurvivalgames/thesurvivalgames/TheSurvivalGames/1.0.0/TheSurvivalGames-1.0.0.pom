@@ -49,7 +49,9 @@
                     <message>Added artifacts</message>
                     <outputDirectory>${project.build.directory}/repo</outputDirectory>
                     <branch>refs/heads/master</branch>
-                    <includes><include>**/*</include></includes>
+                    <includes>
+                        <include>**/*</include>
+                    </includes>
                     <repositoryName>Builds</repositoryName>
                     <repositoryOwner>SurvivalGamesDevTeam</repositoryOwner>
                 </configuration>
