@@ -16,7 +16,7 @@
         <resources>
             <resource>
                 <targetPath>.</targetPath>
-                <filtering>true</filtering>
+                <filtering>false</filtering>
                 <directory>${basedir}/src/main/resources/*/*</directory>
                 <includes>
                     <include>*.yml</include>
