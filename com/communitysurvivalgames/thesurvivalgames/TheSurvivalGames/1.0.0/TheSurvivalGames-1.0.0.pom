@@ -15,9 +15,7 @@
 
         <resources>
             <resource>
-                <targetPath>.</targetPath>
-                <filtering>false</filtering>
-                <directory>${basedir}/src/main/resources/*</directory>
+                <directory>${project.basedir}/src/main/resources</directory>
                 <includes>
                     <include>*.yml</include>
                     <include>*.properties</include>
