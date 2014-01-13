@@ -68,6 +68,7 @@
           </execution>
         </executions>
         <configuration>
+          <promoteTransitiveDependencies>false</promoteTransitiveDependencies>
           <minimizeJar>true</minimizeJar>
         </configuration>
       </plugin>
