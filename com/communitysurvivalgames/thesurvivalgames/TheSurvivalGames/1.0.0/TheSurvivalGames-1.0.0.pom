@@ -121,6 +121,11 @@
       <id>vault-repo</id>
       <url>http://nexus.theyeticave.net/content/repositories/pub_releases</url>
     </repository>
+    <repository>
+      <id>googlecode</id>
+      <name>jWebSocket Repository</name>
+      <url>http://jwebsocket.googlecode.com/svn/repo</url>
+    </repository>
   </repositories>
   <dependencies>
     <dependency>
