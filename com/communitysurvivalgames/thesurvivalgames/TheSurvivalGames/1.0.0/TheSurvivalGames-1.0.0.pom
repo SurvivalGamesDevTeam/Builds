@@ -79,6 +79,7 @@
                 <exclude>META-INF/*.SF</exclude>
                 <exclude>META-INF/*.DSA</exclude>
                 <exclude>META-INF/*.RSA</exclude>
+                <exclude>about.html</exclude>
               </excludes>
             </filter>
           </filters>
