@@ -13,7 +13,6 @@
         <includes>
           <include>locale/</include>
           <include>kits/</include>
-          <include>httdocs/</include>
           <include>*.yml</include>
           <include>*.properties</include>
           <include>*.lang</include>
